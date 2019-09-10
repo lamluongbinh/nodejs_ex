@@ -1,0 +1,12 @@
+{
+  "name": "Nodejs-Travis",
+  "description": "Build Nodejs by Travis Test",
+  "author": "Binh Lam",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "scripts": {
+    "test": "jshint index.js"
+  }
+}
